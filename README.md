@@ -13,7 +13,7 @@ This project contains automated tests for Taskwarrior using Python and pytest. T
 - Taskwarrior:
   Follow the instructions on the [Taskwarrior download page](https://taskwarrior.org/download/) to install Taskwarrior on your system.
 
-### PYthon Dependencies ###
+### Python Dependencies ###
 
 1. Clone the repository:
    git clone https://github.com/hroonr/taskwarrior.git 
