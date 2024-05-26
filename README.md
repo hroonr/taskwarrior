@@ -70,3 +70,14 @@ def test_list_tasks():
 
 if __name__ == '__main__':
     pytest.main()
+
+
+### FUTURE IMPROVEMENTS ###
+
+Following improvements could be made if additional time and resources were available:
+
+1. Enhanced Test Coverage: Expand the test coverage to include more edges cases, e.g. error scenarios, and integration tests to ensure robustness.
+2. Performance Optimization: Analyze and optimize the performance to improve the overall scalability of the application.
+3. User Interfaec Refinement: Refine the user interface to enhance usability and overall user experience.
+4. Parallel Execution: Implement parallel execution of automated tests to reduce test execution time and improve efficiency, especially for large test suites, e.g. Selenium.
+5. Continuous Learning and Skill Development: Stay updated on the latest advancements in automation testing tools, frameworks, and techniques through continuous learning and skill development. 
