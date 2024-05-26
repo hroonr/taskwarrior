@@ -1,6 +1,6 @@
 #Taskwarrior CLI Tests
 
-This project contains automated tests for Taskwarrior ising Python and pytest. Thes tests cover common Taskwarrior functionalities such as adding, listing, completing or deleting tasks. 
+This project contains automated tests for Taskwarrior using Python and pytest. Thes tests cover common Taskwarrior functionalities such as adding, listing, completing or deleting tasks. 
 
 ### Prerequisites ###
 
